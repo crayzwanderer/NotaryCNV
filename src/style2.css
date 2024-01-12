@@ -1,9 +1,3 @@
-body {
-  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/110/316/original/Untitled_design_-_2024-01-12T155343.718.png?1705096434");
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: repeat;
-}
 h1 .allServices {
   text-align: center;
   margin: 25px;
@@ -35,4 +29,12 @@ ul.navbar-nav {
 #button2:hover {
   color: green;
   background-color: white;
+}
+.card {
+  display: block;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+#card {
+  margin-bottom: 25px;
 }
