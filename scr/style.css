@@ -68,3 +68,8 @@ body {
 div.container-fluid {
   margin-bottom: -20px;
 }
+ul.navbar-nav {
+  margin-top: -20px;
+  padding-bottom: 25px;
+  padding-top: 5px;
+}
