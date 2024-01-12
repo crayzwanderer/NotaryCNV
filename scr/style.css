@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  margin: 10px;
+}
+.box1 {
+  display: block;
+  margin: 0 auto;
+  background-color: #36256d;
+  width: 300px;
+  height: 300px;
+  border-radius: 30px;
+  margin-bottom: 50px;
+}
+.box2 {
+  display: block;
+  margin: 0 auto;
+  background-color: #36256d;
+  width: 300px;
+  height: 300px;
+  border-radius: 30px;
+  margin-bottom: 50px;
+}
+.box3 {
+  display: block;
+  margin: 0 auto;
+  background-color: #36256d;
+  width: 300px;
+  height: 300px;
+  border-radius: 30px;
+}
+#columns {
+  margin-top: 50px;
+}
+.subText {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.title {
+  margin: 20px;
+}
+#bookServicesButton {
+  margin: 20px;
+  border-radius: 30px;
+}
