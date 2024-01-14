@@ -46,11 +46,13 @@ ul.navbar-nav {
 }
 @media (max-width: 375px) {
   #card {
+    display: flex;
     max-width: fit-content;
   }
 }
 @media (max-width: 375px) {
   #card2 {
     max-width: fit-content;
+    display: flex;
   }
 }
