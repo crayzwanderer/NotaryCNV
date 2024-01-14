@@ -44,12 +44,12 @@ ul.navbar-nav {
     margin-top: 5px;
   }
 }
-@media (max-width: 272px) {
+@media (max-width: 375px) {
   #card {
     max-width: fit-content;
   }
 }
-@media (max-width: 272px) {
+@media (max-width: 375px) {
   #card2 {
     max-width: fit-content;
   }
