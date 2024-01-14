@@ -62,6 +62,8 @@ ul.navbar-nav {
 }
 @media (max-width: 272px) {
   div#card2.card {
+    display: block;
+    margin: 0 auto;
     margin: 5px;
     max-width: fit-content;
     margin-top: 25px;
