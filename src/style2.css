@@ -42,6 +42,15 @@ ul.navbar-nav {
 @media (max-width: 272px) {
   .title {
     margin-top: 5px;
-    margin-left: -85px;
+  }
+}
+@media (max-width: 272px) {
+  #card {
+    max-width: fit-content;
+  }
+}
+@media (max-width: 272px) {
+  #card2 {
+    max-width: fit-content;
   }
 }
