@@ -47,6 +47,8 @@ ul.navbar-nav {
 }
 @media (max-width: 272px) {
   img.card {
+    display: block;
+    margin: 0 auto;
     text-align: center;
     margin: 5px;
     max-width: max-content;
