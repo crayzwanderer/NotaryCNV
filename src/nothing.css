@@ -1,0 +1,16 @@
+@media (max-width: 272px) {
+  img.card {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin: 5px;
+    max-width: max-content;
+  }
+}
+@media (max-width: 272px) {
+  div#card.card {
+    margin: 5px;
+    margin-top: 55px;
+    max-width: fit-content;
+  }
+}
