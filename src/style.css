@@ -49,6 +49,14 @@ body {
   font-size: 15px;
   color: #36256d;
 }
+@media (max-width: 390px) {
+  .subText {
+    margin: 15px;
+  }
+  div.row-3 {
+    margin-top: 460px;
+  }
+}
 .title {
   margin: 20px;
 }
