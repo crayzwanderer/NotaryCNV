@@ -84,3 +84,9 @@ ul.navbar-nav {
 .options {
   font-weight: 600;
 }
+.footer {
+  background-color: #36256d;
+  color: white;
+  text-align: center;
+  font-size: x-small;
+}

@@ -61,3 +61,10 @@ ul.navbar-nav {
     margin-top: 15px;
   }
 }
+.footer {
+  background-color: #36256d;
+  color: white;
+  text-align: center;
+  font-size: x-small;
+  margin-top: 30px;
+}
