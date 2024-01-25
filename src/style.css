@@ -53,7 +53,13 @@ body {
   .subText {
     color: black;
     margin-left: 280px;
-    margin-top: 490px;
+    margin-top: 650px;
+  }
+  #bookServicesButton {
+    display: block;
+    margin: 0 auto;
+
+    margin-left: 550px;
   }
 }
 
